@@ -54,6 +54,24 @@ nav div {
   color: rgb(255, 235, 212);
 }
 
+.flex-column {
+  width: 30%;
+  padding: 0 1rem;
+}
+
+.sm-img-div {
+  width: 100%;
+}
+
+.img-witch {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+
 main {
   flex: 2;
   margin: 1em;
