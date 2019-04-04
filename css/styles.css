@@ -5,7 +5,7 @@ body {
 
 a {
   text-decoration: none;
-  color: darkgoldenrod;
+  color: goldenrod;
 }
 
 a:hover {
@@ -25,7 +25,7 @@ h1 {
 
 nav {
   display: flex;
-  background-color: lightgoldenrodyellow;
+  background-color: rgb(95, 108, 122);
   width: 100%;
   justify-content: center;
   padding: .2em;
@@ -50,7 +50,8 @@ nav div {
 .flex-container {
   display: flex;
   width: 100%;
-  background-color: orange;
+  background-color: rgb(131, 85, 0);
+  color: rgb(255, 235, 212);
 }
 
 main {
